@@ -1,1 +1,0 @@
-# Spam-Ham-Email-Validator
